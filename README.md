@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flow, a personal finance tracker. <br>🌱 I’m currently learning React through a youtube video and personal projects.<br>⚡ Fun fact, I don't debug. I stare at the screen until the bug feels guilty and fixes itself.
+🔭 I’m currently working on Flow, a personal finance tracker. <br>🌱 I’m currently learning React in my free time through online resources.<br>⚡ Fun fact, I don't debug. I stare at the screen until the bug feels guilty and fixes itself.
 
 
 ## 🌐 Socials:
