@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flow, a personal finance tracker. <br>🌱 I’m currently learning React in my free time through online resources.<br>⚡ Fun fact, I don't debug. I stare at the screen until the bug feels guilty and fixes itself.
+🔭 I’m currently working on Flow, a personal finance tracker. <br>🌱 I’m currently learning React in my free time through online resources.<br>⚡ Fun fact, I started coding for fun, now I debug for survival🔥. 
 
 
 ## 🌐 Socials:
@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tiffsoa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tiffsoa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffsoa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tiffsoa&icon=2&color=6)](https://visitcount.itsvg.in)
