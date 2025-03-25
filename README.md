@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌷 Besides coding, I like to sing, read and watch movies in my free time. <br>🌱 I’m currently trying to deepen my knowledge in Python, through small projects and leetcode.<br>⚡ Fun fact, I started coding for fun, now I debug for survival 💯🔥 
+🌷 Besides coding, I like to sing, read and watch movies in my free time. <br>🌱 I’m currently trying to deepen my knowledge in Python, through small projects and leetcode.<br>🌟 Fun fact, I started coding for fun, now I debug for survival 💯🔥 
 
 
 ## 🌐 Socials:
